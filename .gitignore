@@ -1,5 +1,8 @@
 /node_modules
 /package-lock.json
+/package.json
 # Server
 /.env
-package.json
+
+# hidden
+/.DS_Store
